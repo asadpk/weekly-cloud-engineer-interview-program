@@ -1,0 +1,10 @@
+[
+    {
+      "Description": "My Server OVA",
+      "Format": "ova",
+      "UserBucket": {
+          "S3Bucket": "cnl-import-bucket",
+          "S3Key": "rocky.ova"
+      }
+    }
+]
