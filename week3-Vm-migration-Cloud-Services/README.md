@@ -1,11 +1,36 @@
-# 𝟏𝟐 𝐰𝐞𝐞𝐤𝐬 𝐂𝐥𝐨𝐮𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐅𝐫𝐞𝐞 𝐦𝐞𝐧𝐭𝐨𝐫𝐢𝐧𝐠 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐀𝗹𝗲𝗿𝘁!!! 🔥🔥🔥🔥
+# 𝐂𝐥𝐨𝐮𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 Interview 𝐅𝐫𝐞𝐞 𝐦𝐞𝐧𝐭𝐨𝐫𝐢𝐧𝐠 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐀𝗹𝗲𝗿𝘁!!! 🔥🔥🔥🔥
+
+𝐂𝐥𝐨𝐮𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐅𝐫𝐞𝐞 𝐦𝐞𝐧𝐭𝐨𝐫𝐢𝐧𝐠 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐀𝗹𝗲𝗿𝘁!!! 🔥🔥🔥🔥
 
 Week 1 completed - Cloud Basics ❤️
-# 𝐖𝐞𝐞𝐤 𝟐 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 - 𝐂𝐥𝐨𝐮𝐝 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐀𝐬𝐬𝐞𝐬𝐦𝐞𝐧𝐭 ❤️
+Week 2 Completed - Cloud Migration and Assessment ❤️
+𝐖𝐞𝐞𝐤 𝟑 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 - 𝐕𝐌 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐫v𝐢𝐜𝐞𝐬 𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐩𝐞𝐫𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞 ❤️
 
-Job interviews are tough. If you're not well-prepared, some questions can leave you frantically searching for an answer
+What is very important in interviews?
 
-Practice—but don't memorize—your answers to common interview questions. You can and should familiarize yourself with common interview questions—but don't prepare by writing out your entire answer; instead, jot down a few notes or bullet points and keep them on hand for the interview itself.
+𝐋𝐢𝐬𝐭𝐞𝐧 𝐚𝐧𝐝 𝐀𝐬𝐤 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬
+
+During a job interview, listening is just as important as answering questions. If you're not paying attention, you're not going to be able to give a good response. It's important to listen to the interviewer, pay attention, and take time, if you need it, to compose an appropriate answer.
+
+Yes, Once again Cloudnloud Tech Community had a huge cloud mentoring meet-up virtually with 69+ 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬 on various aspects of 𝐀𝐖𝐒/𝐀𝐙𝐔𝐑𝐄 𝐂𝐥𝐨𝐮𝐝 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐩𝐨𝐢𝐧𝐭 𝐨𝐟 𝐯𝐢𝐞𝐰...
+
+🎯 𝐁𝐞𝐥𝐨𝐰 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐜𝐚𝐫𝐞𝐞𝐫 𝐩𝐚𝐭𝐡𝐬 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐞𝐝
+
+📌 VM Migration Step by Step?
+📌 EC2 ?
+📌 EC2 Autoscaling
+📌 EC2 Reserve Instances - 3 real-time scenarios
+📌 Manual Scaling
+📌 Dynamic Scaling
+📌 Lambda 
+📌 AWS Serverless Application Repository
+📌 VPC
+📌 Route 53
+📌 CloudFront
+📌 Various Open Q&A
+
+
+More such meet-ups are scheduled soon both virtually and physically in various places for overseas migration, company switches, better cover letters, and gearing up to step up in the career path💯
 
 
 
