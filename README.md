@@ -53,7 +53,7 @@ More such meet-ups are scheduled soon both virtually and physically in various p
 - [YouTube Cloud DevOps Free Trainings](https://www.youtube.com/c/CloudnLoud)
 - [Linkedin Page](https://www.linkedin.com/company/cloudnloud/)
 - [Linkedin Group](https://www.linkedin.com/groups/9124202/)
-- [Discord Channel](https://discord.com/invite/vbjRQGVhuF)
+- [Instagram](https://instagram.com/cloudnloud)
 - [Dev](https://dev.to/cloudnloud)
 
 
