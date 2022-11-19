@@ -1,0 +1,61 @@
+Download PGAdmin client to connect postgresql database.
+
+
+
+postgresql
+
+
+DB instance identifier - cnldatabase1
+Master username - postgres
+Master password - Cnl_12345_12345
+Database port - 3306
+Initial database name - mydb
+
+
+cnldatabase1.ce8rfwueq70e.us-east-1.rds.amazonaws.com
+Port - 5432
+
+Mysql –h   <db name>   -u <username>   -p Cnl_12345_12345
+
+
+mysql -h cnldatabase1.ce8rfwueq70e.us-east-1.rds.amazonaws.com -u postgres -p 
+
+
+Then press enter
+
+
+
+mysql -h bvijay.cjttyuzrjhic.us-east-1.rds.amazonaws.com -u redhat -p
+
+Create a simple table in primary 1 DB
+
+
+CREATE TABLE COMPANY2(
+   ID INT PRIMARY KEY     NOT NULL,
+   NAME           TEXT    NOT NULL,
+   AGE            INT     NOT NULL,
+   ADDRESS        CHAR(50),
+   SALARY         REAL
+);
+
+
+
+now create read replica
+
+DB instance identifier* - cnldatabase1-replica
+
+Endpoint - cnldatabase1.ce8rfwueq70e.us-east-1.rds.amazonaws.com
+Port - 5432
+
+cnldatabase1.ce8rfwueq70e.us-east-1.rds.amazonaws.com
+
+
+promote the cluster to standalone -- then delete the read replica cluster
+
+
+
+sudo amazon-linux-extras install epel
+
+Increase CPU utilization
+
+stress --cpu 80
