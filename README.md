@@ -60,7 +60,7 @@ More such meet-ups are scheduled soon both virtually and physically in various p
 
 # My Life Story
 
-- ** Started this mentoring Journey in 2007
+- ** Started this mentoring Journey in 2007**
 
 [![Watch the video](ctotalk.jpeg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
 
