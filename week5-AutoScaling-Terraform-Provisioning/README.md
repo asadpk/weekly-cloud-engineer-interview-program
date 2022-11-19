@@ -12,11 +12,11 @@ Yes, Once again Cloudnloud Tech Community had a huge cloud mentoring meet-up vir
 
 🎯 𝐁𝐞𝐥𝐨𝐰 𝐓𝐨𝐩𝐢𝐜𝐬 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐞𝐝
 
-📌 Auto Scaling Solutions
-📌 Database Replication Solutions
-📌 Infra Provisioning - Terraform
-📌 Enterprise cataloging
-📌 Live Q&A
+- 📌 Auto Scaling Solutions
+- 📌 Database Replication Solutions
+- 📌 Infra Provisioning - Terraform
+- 📌 Enterprise cataloging
+- 📌 Live Q&A
 
 
 
