@@ -1,5 +1,8 @@
 # Create AZURE AKS PRIVATE CLUSTER
 
+
+[![Watch the video](Private-AKS.png)]
+
 - Login AZURE Account
 - Clone the Github Repo
 - explain and execute the params.sh script 
