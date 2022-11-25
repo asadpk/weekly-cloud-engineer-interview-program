@@ -7,7 +7,7 @@
 - Week 3 Completed - VM Migration and Cloud Services Deep Dive Interview Questions ❤️
 - Week 4 Completed - VM Migration,AWS Organisation and Policy implementations,How to design cloud Native Application  ❤️
 - Week 5 Completed - AutoScaling,Terraform Provisioning,Enterprise cataloging Products
-- Week 6 Completed - Private AZURE AKS Cluster Provisioning,Terraform Provisioning with Autoscaling,Logic Apps Automation,
+- 𝐖𝐞𝐞𝐤 𝟔 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 - 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐀𝐙𝐔𝐑𝐄 𝐀𝐊𝐒 𝐂𝐥𝐮𝐬𝐭𝐞𝐫 𝐏𝐫𝐨𝐯𝐢𝐬𝐢𝐨𝐧𝐢𝐧𝐠,𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐏𝐫𝐨𝐯𝐢𝐬𝐢𝐨𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐮𝐭𝐨𝐬𝐜𝐚𝐥𝐢𝐧𝐠,𝐋𝐨𝐠𝐢𝐜 𝐀𝐩𝐩𝐬 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧
 
 
 Yes, Once again Cloudnloud Tech Community had a huge cloud mentoring meet-up virtually with 57+ 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬 on various aspects of 𝐀𝐖𝐒/𝐀𝐙𝐔𝐑𝐄 𝐂𝐥𝐨𝐮𝐝 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐩𝐨𝐢𝐧𝐭 𝐨𝐟 𝐯𝐢𝐞𝐰...
