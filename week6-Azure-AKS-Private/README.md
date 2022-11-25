@@ -14,15 +14,12 @@ Yes, Once again Cloudnloud Tech Community had a huge cloud mentoring meet-up vir
 
 🎯 𝐁𝐞𝐥𝐨𝐰 𝐓𝐨𝐩𝐢𝐜𝐬 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐞𝐝 🔥🔥🔥
 
-📌 Integrate and Provision between AZURE Subscriptions ?
-📌 AZURE global services,Regional services . How to Design Enterprise Application ?
-📌 AZURE AKS - Private & Public Cluster ?
-📌 Azure LogicApps Automation
-📌 AZure Vault UseCases in Enterprise App Architecture
-📌 AZURE ARM Templates & provisioning
-📌 Terraform - Custom Provider and No Provider
-📌 AZURE Policies - UseCases
-📌 Live Q&A
+- 📌 AZURE global services,Regional services . How to Design Enterprise Application ?
+- 📌 AZURE AKS - Private & Public Cluster ?
+- 📌 Azure LogicApps Automation
+- 📌 AZURE ARM Templates & provisioning
+- 📌 Terraform - Provider
+- 📌 Live Q&A
 
 
 More such meet-ups are scheduled soon both virtually and physically in various places for overseas migration, company switches, better cover letters, and gearing up to step up in the career path💯
