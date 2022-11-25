@@ -67,10 +67,31 @@ echo "$(cat kubectl.sha256)  kubectl" | sha256sum --check
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 ```
 
+- integrate your azure account.Run the below command from Jump VM box
+
+```
+az login
+```
+
+
+
+# goto portal.azure.com --> go to kubernetes services
+
+- open aks-private cluster resource
+
+- click connect 
+
+- run the commands [copy the commands and execute it from newly created jump box VM ]
+
+```
+az account set --subscription 477b79b8-2158-431e-a1eb-fd74972fbbce
+az aks get-credentials --resource-group aks-private-rg --name aks-private
+```
+
 # access the kubernetes cluster
 
 ```
-kubectl get all
+kubectl get nodes
 
 ```
 
