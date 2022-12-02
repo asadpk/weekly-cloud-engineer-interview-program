@@ -66,3 +66,12 @@ steps in migrating to the new database ?
 
 - Create a replicatrion Task
 
+
+
+
+# AWS Landing ZOne
+
+
+[![Watch the video](aws-landing-zone.png)]
+
+[![Watch the video](landing-zone1.jpg)]
