@@ -35,7 +35,7 @@ Week 3 | [Week 3](/week3-Vm-migration-Cloud-Services) | **VM Migration** | Cloud
 Week 4 | [Week 4](/week4-vm-migration-AWS-Organisation) | **How Enterprise Cloud Project Works** | AWS-Organisation
 Week 5 | [Week 5](/week5-AutoScaling-Terraform-Provisioning) | **AWS DB Replication** | DB Replication,Infra Automation
 Week 6 | [Week 6](/week6-Azure-AKS-Private) | **AZURE AKS Private Cluster** | ARM Template Automation,Logic Apps Administration,AZURE AKS
-
+Week 7 | [Week 7](/week7-Database-MIgration-AWS-Control-Tower) | **Database Migration** | Database Migration,DataSync,AWS Landing Zone
 
 or any career related queries feel free to  **WhatsApp me**
 
