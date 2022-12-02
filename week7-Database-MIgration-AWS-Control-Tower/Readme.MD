@@ -75,3 +75,5 @@ steps in migrating to the new database ?
 [![Watch the video](aws-landing-zone.png)]
 
 [![Watch the video](landing-zone1.jpg)]
+
+[![Watch the video](AWS-Landing-Zone-2.png)]
