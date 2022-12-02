@@ -30,7 +30,7 @@ steps in migrating to the new database ?
 [![Watch the video](data-migration.png)]
 
 
-big bang data migration, trickle data migration, and zero downtime migration ?
+# big bang data migration, trickle data migration ?
 
 
 
