@@ -35,3 +35,34 @@ steps in migrating to the new database ?
 
 
 [![Watch the video](bigbang-vs-tricle.jpg)]
+
+
+
+# DataBase Migration
+
+## Step 1 :
+
+- Go to RDS Service
+
+- Create maria-database
+- Create mysql-database
+
+## Step 2 :
+
+
+- Go to Database MIgration Service
+
+- create demo replication instance
+
+
+## Step 3 :
+
+
+- Create Source Endpoint
+- Create Target Endpoint
+
+
+## Step 4 :
+
+- Create a replicatrion Task
+
