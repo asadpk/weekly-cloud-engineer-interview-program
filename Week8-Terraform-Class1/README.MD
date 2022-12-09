@@ -37,9 +37,9 @@ resource "aws_eip" "lb" {
 }
 ```
 
-📌 How to create a Security Group
-📌 How to create VPC
-📌 How to create VPC with Private and public Subnets
-📌 How to create an EC2 instance
-📌 How to create EC2 instance. While creating the ec2 instance itself how to configure/install the webserver in it.
+# How to create a Security Group
+# How to create VPC
+# How to create VPC with Private and public Subnets
+# How to create an EC2 instance
+# How to create EC2 instance. While creating the ec2 instance itself how to configure/install the webserver in it.
 ---
