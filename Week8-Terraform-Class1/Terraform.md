@@ -7,6 +7,17 @@
 Hands-on
 
 - How to set up a lab on your laptop
+
+# install visual studio code
+
+## install the below plugins
+
+- aws toolkit
+- hashicorp terraform
+- terraform autocomplete
+- Simple Terraform Snippets
+
+
 - How to first start an easy way of terraform automation.
 
 
