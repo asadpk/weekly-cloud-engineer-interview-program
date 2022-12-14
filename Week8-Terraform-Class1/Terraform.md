@@ -17,6 +17,9 @@ Hands-on
 - terraform autocomplete
 - Simple Terraform Snippets
 
+terraform state list
+terraform destroy -target aws_s3_bucket.bucker1
+
 
 - How to first start an easy way of terraform automation.
 
