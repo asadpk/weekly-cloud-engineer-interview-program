@@ -16,6 +16,7 @@ Hands-on
 - hashicorp terraform
 - terraform autocomplete
 - Simple Terraform Snippets
+- Terraform doc snippets
 
 terraform state list
 terraform destroy -target aws_s3_bucket.bucker1
