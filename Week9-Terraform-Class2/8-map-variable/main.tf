@@ -1,5 +1,4 @@
-module "vpc" {
-  source = "git::https://github.com/fstuck37/terraform-aws-vpc.git"
+resource "aws_vpc" "poc-vpc" {
   acctnum="${var.acct-num}"
   region = "${var.region}"
   vpc-cidrs = ["${var.vpc-cidrs}"]
