@@ -1,50 +1,58 @@
-# Create a VPC for the region associated with the AZ
-resource "aws_vpc" "vpc" {
-  cidr_block = var.vpc_cidr 
-  tags = {
-    Name        = "cloudcasts-${var.infra_env}-vpc"
-    Project     = "cloudcasts.io"
-    Environment = var.infra_env
-    ManagedBy   = "terraform"
+module "vpc" {
+  source = "git::https://github.com/fstuck37/terraform-aws-vpc.git"
+  acctnum="${var.acct-num}"
+  region = "${var.region}"
+  vpc-cidrs = ["${var.vpc-cidrs}"]
+  name-vars = "${var.name-vars}"
+  subnets = "${var.subnets}"
+  subnet-order = "${var.subnet-order}"
+  deploy_natgateways = "true"
+  tags = "${var.tags}"
+}
+
+variable "acct-num" { 
+  default = "1234567890123"
+}
+
+variable "region" {
+  default = "us-east-1"
+}
+
+variable "vpc-cidrs" {
+  default = ["10.0.0.0/21"]
+}
+
+variable "name-vars" {
+  type = "map"
+  default = {
+    account = "geek37"
+    name = "dev"
   }
 }
- 
-# Create 1 public subnets for each AZ within the regional VPC
-resource "aws_subnet" "public" {
-  for_each = var.public_subnet_numbers
- 
-  vpc_id            = aws_vpc.vpc.id
-  availability_zone = each.key
- 
-  # 2,048 IP addresses each
-  cidr_block = cidrsubnet(aws_vpc.vpc.cidr_block, 4, each.value)
- 
-  tags = {
-    Name        = "cloudcasts-${var.infra_env}-public-subnet"
-    Project     = "cloudcasts.io"
-    Role        = "public"
-    Environment = var.infra_env
-    ManagedBy   = "terraform"
-    Subnet      = "${each.key}-${each.value}"
+
+variable "subnets" {
+  type = "map"
+  default = {
+    pub = "10.0.0.0/24"
+    web = "10.0.1.0/24"
+    app = "10.0.2.0/24"
+    db  = "10.0.3.0/24"
+    mgt = "10.0.4.0/24"
   }
 }
- 
-# Create 1 private subnets for each AZ within the regional VPC
-resource "aws_subnet" "private" {
-  for_each = var.private_subnet_numbers
- 
-  vpc_id            = aws_vpc.vpc.id
-  availability_zone = each.key
- 
-  # 2,048 IP addresses each
-  cidr_block = cidrsubnet(aws_vpc.vpc.cidr_block, 4, each.value)
- 
-  tags = {
-    Name        = "cloudcasts-${var.infra_env}-private-subnet"
-    Project     = "cloudcasts.io"
-    Role        = "private"
-    Environment = var.infra_env
-    ManagedBy   = "terraform"
-    Subnet      = "${each.key}-${each.value}"
+
+variable "subnet-order" {
+  type = "list"
+  default = ["pub", "web", "app", "db", "mgt"]
+}
+
+variable "tags" {
+  type = "map"
+  default = {
+    dept = "Development"
+    Billing = "12345"
+    Contact = "F. Stuck"
+    Environment = "POC"
+    Notes  = "This is a test environment"
   }
 }
