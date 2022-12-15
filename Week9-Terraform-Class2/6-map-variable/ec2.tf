@@ -1,13 +1,21 @@
-variable "region" {}
-variable "amis" {
+provider "aws" {
+  region = var.region
+}
+
+variable "region" {
+}
+
+
+variable "ec2_ami" {
   type = map(string)
   default = {
-    "us-east-1" = "ami-0b0dcb5067f052a63"
-    "us-east-2" = "ami-0185a6f76b69a1870"
+    "us-east-1" = "ami-0a313d6098716f372"
+    "us-east-2" = "ami-0beaa649c482330f7"
   }
 }
 
 resource "aws_instance" "example" {
-  ami           = lookup(var.amis, var.region)
+  ami           = lookup(var.ec2_ami, var.region)
   instance_type = "t2.micro"
 }
+
