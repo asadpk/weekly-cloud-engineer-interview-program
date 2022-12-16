@@ -37,7 +37,7 @@ Week | Type of UseCase | Description
 [Week6](/week6-Azure-AKS-Private) | **AZURE AKS Private Cluster** | ARM Template Automation,Logic Apps Administration,AZURE AKS
 [Week7](/week7-Database-MIgration-AWS-Control-Tower) | **Database Migration** | Database Migration,DataSync,AWS Landing Zone
 [Week8](/Week8-Terraform-Class1) | **Terraform AWS Automation** | Beginners - Class 1
-
+[Week9](/Week9-Terraform-Class2) | **Terraform AWS Automation** | Beginners - Class 2
 
 Week8-Terraform-Class1
 
