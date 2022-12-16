@@ -40,7 +40,7 @@ Week | Type of UseCase | Description
 
 # Terraform Administration Free Training
 
-- ** AWS Automation**
+- **AWS Automation**
 - **AZURE Automation**
 
 [Week8](/Week8-Terraform-Class1) | **Terraform AWS Automation** | Beginners - Class 1
