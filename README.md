@@ -42,7 +42,8 @@ Week | Type of UseCase | Description
 
 - **AWS Automation**
 - **AZURE Automation**
-
+Week | Type of UseCase | Description
+:------|:------|:------:
 [Week8](/Week8-Terraform-Class1) | **Terraform AWS Automation** | Beginners - Class 1
 [Week9](/Week9-Terraform-Class2) | **Terraform AWS Automation** | Beginners - Class 2
 
