@@ -1,6 +1,8 @@
 # backend state learning
 
 [![Watch the video](backend-state.jpg)]
+[![Watch the video](remote-state.png)]
+[![Watch the video](remote-state1.png)]
 
 # step 1
 
