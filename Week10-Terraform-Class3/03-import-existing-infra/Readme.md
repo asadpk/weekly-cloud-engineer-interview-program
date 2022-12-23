@@ -1,3 +1,8 @@
+# Import existing Infrastructure
+
+[![Watch the video](2.png)]
+[![Watch the video](1.png)]
+
 - create ec2 instance manually using AWS GUI
 - create general provider.tf
 - create ec2.tf with some empty values
