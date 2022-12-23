@@ -1,1 +1,0 @@
-- https://blog.knoldus.com/how-to-use-data-source-in-terraform/
