@@ -49,7 +49,7 @@ Week | Type of UseCase | Description
 [Week9](/Week9-Terraform-Class2) | **Terraform AWS Automation** | Beginners - Class 2
 [Week10](/Week10-Terraform-Class3) | **Terraform AWS Automation** | Beginners - Class 3
 [Week11](/Week11-Terraform-Class4) | **Terraform AWS Automation** | Beginners - Class 4
-[Week12](/Week12-Terraform-Class5) | **Terraform AWS Automation** | Beginners - Class 5
+[Week12](/week12-Terraform-Class5) | **Terraform AWS Automation** | Beginners - Class 5
 or any career related queries feel free to  **WhatsApp me**
 
 - [Whatsapp](https://wa.me/message/2EM3VEAMEMVHP1)
