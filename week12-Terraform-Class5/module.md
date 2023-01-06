@@ -48,3 +48,9 @@ mkdir -p modules/vpc
 - 3. Finally, run the following command to change your current directory to the vpc directory inside the modules directory using an absolute path. Be sure to replace cloud_user with your username.
 
 You specify the absolute path of the vpc directory since each user in your system has their own home directory.
+
+
+[![Watch the video](module.jpg)]
+[![Watch the video](module1.jpg)]
+[![Watch the video](module2.jpg)]
+[![Watch the video](module3.jpg)]
