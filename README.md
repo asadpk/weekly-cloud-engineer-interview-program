@@ -38,7 +38,7 @@ Week | Type of UseCase | Description
 [Week7](/week7-Database-MIgration-AWS-Control-Tower) | **Database Migration** | Database Migration,DataSync,AWS Landing Zone
 
 
-# Terraform Administration Free Training
+# Terraform Administration Free Training - Beginners
 
 - **AWS Automation**
 - **AZURE Automation**
@@ -50,6 +50,13 @@ Week | Type of UseCase | Description
 [Week10](/Week10-Terraform-Class3) | **Terraform AWS Automation** | Beginners - Class 3
 [Week11](/Week11-Terraform-Class4) | **Terraform AWS Automation** | Beginners - Class 4
 [Week12](/week12-Terraform-Class5) | **Terraform AWS Automation** | Beginners - Class 5
+
+# Terraform Administration Free Training - Intermediate
+Week | Type of UseCase | Description
+:------|:------|:------:
+[Week13](/week13-Terraform-Class6) | **Terraform AWS Automation** | Expert - Class 6
+
+
 or any career related queries feel free to  **WhatsApp me**
 
 - [Whatsapp](https://wa.me/message/2EM3VEAMEMVHP1)
