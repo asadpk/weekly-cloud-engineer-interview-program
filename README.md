@@ -51,7 +51,7 @@ Week | Type of UseCase | Description
 [Week11](/Week11-Terraform-Class4) | **Terraform AWS Automation** | Beginners - Class 4
 [Week12](/week12-Terraform-Class5) | **Terraform AWS Automation** | Beginners - Class 5
 
-# Terraform Administration Free Training - Intermediate
+# Terraform AWS Automation Free Training - Intermediate
 Week | Type of UseCase | Description
 :------|:------|:------:
 [Week13](/week13-Terraform-Class6) | **Terraform AWS Automation** | Expert - Class 6
