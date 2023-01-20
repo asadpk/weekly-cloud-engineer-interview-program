@@ -1,3 +1,9 @@
+# ignore all exe file
 *.exe
-*.terraform
-*.terraform.*
+
+# ignore all pem file
+*.pem
+
+.terraform*
+.terraform.tfstate*
+
