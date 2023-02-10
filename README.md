@@ -80,6 +80,9 @@ More such meet-ups are scheduled soon both virtually and physically in various p
 - [Linkedin Group](https://www.linkedin.com/groups/9124202/)
 - [Instagram](https://instagram.com/cloudnloud)
 - [Dev](https://dev.to/cloudnloud)
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> c06fe0310efeccfc6aa8f8147ea60349a2b0914b
