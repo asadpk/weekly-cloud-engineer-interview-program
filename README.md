@@ -57,8 +57,7 @@ Week | Type of UseCase | Description
 [Week13](/week13-Terraform-Class6) | **Terraform AWS Automation** | Expert - Class 6
 [Week14](/week14-Terraform-Class7) | **Terraform AWS Automation** | Expert - Class 7
 [Week15](/week15-Terraform-Class8) | **Terraform AWS Automation** | Expert - Class 8
-
-
+[Week16](/week16-Terraform-Class9) | **Terraform AWS Automation** | Expert - Class 9
 
 
 
